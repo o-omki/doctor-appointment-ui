@@ -1,16 +1,26 @@
-# doctor_appointment
+## Flutter Doctor's Appointment UI Design App
 
-A new Flutter project.
+This is a beautifully designed mobile application developed using Flutter framework that focuses on scheduling doctor's appointments, communication between patients and doctors, and personal profile management.
 
-## Getting Started
+### Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](screenshots/welcome_screen.png)
+*Welcome Screen*
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2](screenshots/login_screen.png)
+*Login Screen*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 3](screenshots/create_account.png)
+*Account Creation*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 4](screenshots/home.png)
+*Home Screen*
+
+![Screenshot 5](screenshots/chat.png)
+*Chat Screen*
+
+![Screenshot 6](screenshots/appointments.png)
+*Appointments
+
+![Screenshot 7](screenshots/settings.png)
+*Settings Screen*
